@@ -13,4 +13,4 @@ Fivem resources development profile.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=/orgs/NoCapScripts-FiveM&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orgs/NoCapScripts-FiveM&show_icons=true&theme=dracula)
